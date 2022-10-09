@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**daniilkerna/daniilkerna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! My name is Daniil; I'm a Full Stack developer based out of Vancouver, WA with lots of experience working with startups and established companies looking to increase his freelance experience. I am passionate about development and enjoy the work I do, and I am sure that I will be an asset to your team!
 
-Here are some ideas to get you started:
+## ✨ About myself ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prefer to program in JavaScript/TypeScript.
+
+I have proficient working knowledge in these other languages as well:
+
+- Python
+- C#
+- Golang
